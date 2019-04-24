@@ -16,6 +16,6 @@
             <li>Antes do $next($request);</li>
             <li>Após o $next($request)</li>
         </ul>
-<ol>
+</ol>
 <br>
 <p>Com o conhecimento até agora posso imaginar formar de validação de dados antes e depois de retornar os métodos dos controllers.<p>
